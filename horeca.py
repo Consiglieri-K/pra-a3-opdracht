@@ -27,6 +27,8 @@ while isRunning:
             totalValue += float(inside['cap_max_intern'])
         print(f"Totaal aantal bezoekers is: {totalValue} \n")
         break
+    elif choice == 2:
+        print('Jalajajbfsjaflasfnaskjfnlafna')
 
     elif choice == 2:
 
