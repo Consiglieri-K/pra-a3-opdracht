@@ -2,9 +2,13 @@ import csv
 import os
 
 horecaFile = open("GH.csv", "r", encoding = "UTF-8")
-reader = csv.DictReader(horecaFile)
+reader = csv.DictReader(horecaFile, delimiter=";")
 horecaList = list(reader)
 
+#TOTALVALUE
+totalValue = 0
+#NIGHTVALUE 
+nightValue = 0
 isRunning = True
 while isRunning:
 
@@ -19,9 +23,33 @@ while isRunning:
     os.system("cls")
 
     if choice == 1:
-        print("test")
+        for inside in horecaList:
+            totalValue += float(inside['cap_max_intern'])
+        print(f"Totaal aantal bezoekers is: {totalValue} \n")
         break
 
+    elif choice == 2:
+
+        print("Aantal horecaondernemingen met meer dan 50 plekken op hun terras: ")
+        terras_horeca = 0
+        for onderneming in horecaList:
+            if int(onderneming['cap_max_terras']) > 50:
+                terras_horeca += 1
+        os.system("cls")
+        print(f"Aantal horecaondernemingen met meer dan 50 mensen = {terras_horeca}")
+        break
+
+    elif choice == 3:
+        for nightLicense in horecaList:
+            if nightLicense["nachtvergunning"] == "Ja":
+                nightValue += 1
+        print(f"Totaal aantal horeca met een nachtvergunning: {nightValue}")       
+        break
+
+    
+            
+
+    
 
     
 
