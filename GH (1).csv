@@ -1,0 +1,101 @@
+Organisatie;Contactpersoon;Straat;Huisnummer;Toevoeging;cap_max_intern;cap_max_terras;cap_totaal;datumEersteAanvraag;nachtvergunning;vergunning_tot
+Olivier;C. Mulder;Halte Malakkastraat;8960 FS;;100;50;150;7-3-2014;Ja;
+Groothuis;R. Vos;Halte Billitonstraat;6525 HI;D;30;10;40;1-11-1999;Nee;22:00
+De Bonte Koe;C. Janssen;Halte Mineurslaan;3912 DQ;;40;10;50;16-7-2019;Ja;
+Van Ruysdael;F. van der Pol;Halte Schroeder van der Kolkstraat;7590 RB;;100;50;150;3-3-2020;Nee;23:00
+In de Karkol;M. van den Berg;Halte Minrebroederstraat;2137 GL;;130;35;165;13-1-2016;Nee;24:00
+Samson;I. Kuijpers;Halte Kalverstraat;4914 GX;;110;30;140;19-6-2009;Ja;
+'t Pleintje;G. Molenaar;Halte Helling;4571 IR;;110;35;145;17-1-2019;Ja;
+De Gekroonde Suikerbiet;P. van der Horst;Halte Korte Hamsteeg;9090 NK;C;70;35;105;24-12-2015;Ja;
+In de Wildeman;D. Koning;Halte Jacobskerksteeg;6676 KZ;;60;20;80;6-9-2013;Ja;
+De Stee;B. Schipper;Halte Leerstraat;8385 AH;;140;35;175;30-6-2018;Nee;24:00
+Het Centrum;D. van der Velde;Halte Beukstraat;8820 AE;B;70;25;95;10-2-2010;Ja;
+Anvers;V. van den Brink;Halte Catharijnesingel;2013 ED;A;70;25;95;10-2-2007;Nee;24:00
+De Wolthoorn;K. van Dam;Halte Jeremiestraat;2418 WO;;90;45;135;19-10-2016;Nee;24:00
+In den Bockenreyder;E. van de Ven;Halte Reguliersteeg;8520 SU;A;30;30;60;13-5-1997;Ja;
+De Morgenstond;O. Kuijpers;Halte Joan van Oldenbarneveldtlaan;8907 LJ;B;100;50;150;11-8-2005;Nee;24:00
+De Engel;P. van der Velde;Halte Maliestraat;4647 RE;;30;15;45;9-10-2004;Ja;
+In de Blaauwe Hand;Z. van de Meer;Halte Frederikastraat;9352 DJ;;120;60;180;24-1-2015;Nee;23:00
+Koops;J. van der Laan;Halte Reestraat;9469 BG;;50;15;65;24-2-2005;Nee;24:00
+De Pintelier;Y. de Lange;Halte Bleijenburgkade;8319 QP;;150;40;190;22-8-2014;Nee;21:00
+Nobel;K. van de Wal;Halte Bregittenstraat;3034 SY;C;90;90;180;4-1-2013;Ja;
+Jos Meesterschenkerij;A. Prins;Halte Steenweg;6872 KC;;100;100;200;28-4-1998;Ja;
+De Ballentent;E. Hoekstra;Halte Bekkerstraat;2185 RL;;50;15;65;7-11-2001;Nee;23:00
+In den Ouden Vogelstruys;X. Wolters;Halte Grietstraat;4573 KX;B;90;30;120;4-11-1999;Ja;
+Proeflokaal Arendsnest;W. van den Broek;Halte Singelstraat;4635 IR;C;90;45;135;25-11-2001;Ja;
+De Mug;K. Schouten;Halte Eikstraat;7239 DP;C;120;30;150;28-11-2002;Ja;
+'t Hemeltje;O. Vos;Halte Achterstraat 2e;7302 DF;;140;45;185;27-6-2017;Ja;
+De Stomme van Campen;C. Kuypers;Halte Palmstraat;9355 ND;;80;80;160;21-1-2007;Nee;21:00
+De Tijd;D. van de Velde;Halte Singelsteeg;8233 EO;A;90;90;180;25-2-2002;Ja;
+De Bonte Koe;R. Bosman;Halte Reestraat;5297 WO;;130;65;195;7-1-2015;Ja;
+Bar le Duc;C. van de Velde;Halte Floris Heermalestraat;1975 NN;A;90;45;135;15-8-2017;Nee;21:00
+De Poshoorn;X. Dekker;Halte Stadhouderslaan;9667 NB;;70;70;140;16-3-2002;Ja;
+Momfer de Mol;P. de Bruin;Halte Lange Lauwerstraat;6409 RP;C;110;35;145;8-10-2012;Ja;
+De Gaper;X. de Bruin;Halte Blauwsteeg;3086 DC;C;70;35;105;21-3-2018;Nee;20:00
+Oud Brabant;P. van der Wal;Halte Elisabethsteeg;9290 DT;B;130;130;260;5-8-2011;Nee;22:00
+De Walvis;G. van Veen;Halte Jan van Scorelstraat;1121 WI;;110;35;145;7-12-1998;Nee;22:00
+'t Voorhuys;N. Kuiper;Halte Soendastraat;7829 QB;D;130;65;195;20-6-2015;Nee;21:00
+Oosterling;F. Dekker;Halte Singelsteeg;3632 XL;;90;90;180;13-2-2016;Ja;
+De Rede van Dronten;N. de Groot;Halte Willemstraat;7770 XB;C;60;20;80;17-3-1999;Ja;
+De Beurs;C. de Vos;Halte Blauwsteeg;1858 DN;;80;25;105;1-10-1999;Ja;
+De Korenbloem;P. Gerritsen;Halte Goudsbloemstraat;2958 UP;;140;140;280;8-11-2008;Nee;23:00
+Babo;X. Hofman;Halte Maliestraat;8867 EJ;;150;150;300;25-7-2016;Ja;
+De Hetebrij;T. Janssen;Halte Imhoffstraat (van);9882 PX;B;120;120;240;23-2-2002;Ja;
+Jopenkerk;C. Jonker;Halte Korte Hamsteeg;8774 ZM;;50;15;65;26-10-2010;Nee;23:00
+De Klomp;M. Groen;Halte Achter de Wal;7081 TK;A;90;45;135;13-10-2010;Nee;23:00
+Soestdijk;V. Kuijpers;Halte Parkstraat;4474 CR;C;150;40;190;23-7-2005;Ja;
+Nielz;V. van den Velden;Halte Kanonstraat;1356 OS;;140;140;280;6-1-2018;Ja;
+Sprakel;P. van der Linden;Halte Floris Heermalestraat;7847 MJ;;40;40;80;24-7-2017;Nee;21:00
+Kadinksky;H. van den Berg;Halte Tolsteegbrug;3131 VQ;C;100;100;200;20-6-2012;Ja;
+De Witte Aap;M. Visser;Halte Wilhelmina Park;5858 FC;B;50;50;100;13-1-2011;Ja;
+De Beyerd;E. van der Berg;Halte Grave van Solmsstraat;6428 NI;;140;140;280;4-4-2014;Nee;20:00
+Koper;H. van Veen;Halte Poortstraat;8495 YR;A;140;45;185;11-3-2018;Ja;
+De Walrus;O. Mol;Halte Achter Clarenburg;6096 DB;A;60;15;75;18-7-2002;Ja;
+Hofsteenge;K. van Wijk;Halte Landstraat;1902 NW;;110;55;165;12-11-2001;Ja;
+De Posthoorn;N. Gerritsen;Halte Dondersstraat (F.C.);5676 PW;;120;40;160;13-7-2014;Ja;
+Oerkroeg Schiller;R. Blom;Halte Steenweg;5493 YL;;110;30;140;19-4-2017;Nee;23:00
+De Jaren;B. Wolters;Halte Magdalenastraat;2470 WI;B;70;35;105;8-9-2002;Ja;
+De Zwijger;Y. van der Laan;Halte Putsteeg;9236 YR;;120;60;180;3-1-1996;Ja;
+Berlage;Q. van den Velden;Halte Beverstraat;3510 AW;;40;15;55;25-2-2016;Nee;21:00
+Nescafe;P. de Jong;Halte Groeneweg;4233 AL;;140;70;210;17-5-1999;Ja;
+Beekman & Beekman;E. van den Berg;Halte Bijlhouwerstraat;4803 UH;;30;10;40;20-4-2004;Nee;23:00
+De Dikke Dries;C. van de Velden;Halte A B C straat;2010 LR;;70;20;90;25-8-2015;Nee;23:00
+Der Klinge;K. Smits;Halte Daendelsstraat;4529 ZV;C;50;15;65;5-9-2010;Nee;23:00
+Wijnbar Janssen en Van Dijk;K. van den Brink;Halte Pietersplein;3534 ZG;;130;130;260;14-2-2016;Nee;24:00
+'t Keerpunt;G. de Haan;Halte Oosterbuurt;4953 NX;;60;30;90;30-1-2000;Ja;
+Dudok;M. Scholten;Halte Oranjehofje;3984 NP;D;150;40;190;30-5-2014;Nee;22:00
+De 12 Balcken;E. Gerritsen;Halte Kraanstraat;2019 BY;;140;140;280;14-8-2016;Nee;21:00
+Het Bonte Paard;F. van der Velden;Halte Kollewijsteeg;9386 QT;;140;140;280;24-5-1997;Ja;
+De Verleiding;P. Molenaar;Halte Ekerenspoort;4445 ER;;40;20;60;20-10-2000;Ja;
+Paddy O'Ryan;J. van der Veen;Halte Agnietenstraat;4428 EO;B;140;45;185;1-10-2001;Ja;
+De Vlaamsche Reus;G. Blom;Halte Zonstraat;8559 IH;;130;65;195;27-9-2017;Nee;21:00
+De Zwarte Ruiter;O. van de Veen;Halte Maliestraat;4569 NI;;80;80;160;1-4-2012;Ja;
+Het Veulen;Y. van de Veen;Halte Draaiweg;5189 RP;;60;60;120;26-10-2003;Ja;
+Usine;W. van der Ven;Halte Wijde Doelen;3629 GE;;140;140;280;27-1-2003;Nee;23:00
+Zeerust;B. Meijer;Halte Wijde Begijnestraat;7309 HO;;80;40;120;30-7-2018;Ja;
+Braakhekke;J. van Beek;Halte Drakenburgsteeg;1368 KU;B;110;110;220;14-12-2018;Ja;
+'t Stulpke;T. Kuiper;Halte Nicolaasweg;6189 IG;A;120;30;150;18-2-2003;Ja;
+Kareltje;O. van de Ven;Halte Mariastraat;4421 IV;;130;45;175;18-7-2002;Ja;
+Bruxelles;G. Kramer;Halte Kraanstraat;7708 KQ;C;60;15;75;3-3-2008;Ja;
+De Walrus;M. Hofman;Halte Hagelstraat;3155 WT;A;150;50;200;31-3-1996;Ja;
+De Markt;R. van Leeuwen;Halte Papaverstraat;1773 AN;;30;30;60;9-9-2010;Ja;
+Zomerzorg;H. Koster;Halte Alendorpsteeg;7535 NB;;110;35;145;8-5-2018;Nee;20:00
+Salud;X. de Haan;Halte Moutstraat;6763 ON;D;100;100;200;23-10-2002;Ja;
+Ledig Erf;G. de Haan;Halte Veerstraat;4546 BO;;50;15;65;7-1-2016;Nee;24:00
+Sevenwaeg;E. Vos;Halte Amaliadwarsstraat;6982 IF;;100;35;135;22-6-1997;Nee;22:00
+Bolle;J. de Jonge;Halte Minstraat;7519 YA;;140;140;280;9-4-1998;Nee;23:00
+Van Wegen;W. van Dongen;Halte Abstederdijk;3134 UD;;100;35;135;21-6-2017;Nee;22:00
+Herberg 't Plein;B. Koster;Halte Korte Smeestraat;3132 XU;;60;60;120;16-4-2010;Ja;
+Metropole;G. de Vries;Halte Beverstraat;2365 YB;;80;20;100;7-9-2018;Ja;
+Morshuis;O. van der Horst;Halte Kruitstraat;7141 AC;;30;30;60;30-5-2006;Ja;
+Zeezicht;S. Kuiper;Halte Koningstraat;9550 QX;;30;30;60;17-1-1998;Ja;
+De Oude Mol;I. van der Heyden;Halte Achterom;8292 RU;;40;10;50;10-6-2015;Ja;
+Meesters;O. Bakker;Halte Krommerijnstraat;5067 UL;;80;80;160;18-5-2007;Ja;
+'t Smalle;I. van Leeuwen;Halte Helling;9558 UR;C;30;30;60;2-1-2018;Nee;24:00
+De Sjees;T. Vos;Halte Mineurslaan;3142 PK;A;90;30;120;1-4-1999;Ja;
+De Michel;Y. de Leeuw;Halte Oranjestraat;5953 EG;;70;25;95;17-6-2004;Ja;
+Cafe Schtad Zitterd;D. Jonker;Halte Kalverstraat;5945 EJ;C;130;130;260;6-2-1996;Ja;
+Kafe Belgie;P. van den Bosch;Halte Beekstraat;6623 YK;;50;15;65;25-8-2007;Nee;22:00
+Hesp;I. Bosch;Halte Soendastraat;6525 LM;C;70;20;90;12-2-2010;Nee;23:00
+'t Lokaal;K. Verhoeven;Halte Ooftstraat;6870 ID;;30;10;40;21-9-1999;Ja;
+Jan en Jan;A. van de Pol;Halte Varkenmarkt;7175 ID;B;90;45;135;4-11-2005;Ja;
