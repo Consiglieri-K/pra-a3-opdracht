@@ -64,7 +64,7 @@ while isRunning:
         os.system("cls")
     print(f"Top 10 oudste vergunningen. \n {list}")
 
-    
+    #j
 
 
 
