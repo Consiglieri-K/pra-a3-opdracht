@@ -1,5 +1,6 @@
 import csv
 import os
+from datetime import datetime
 
 horecaFile = open("GH.csv", "r", encoding = "UTF-8")
 reader = csv.DictReader(horecaFile, delimiter=";")
@@ -45,6 +46,24 @@ while isRunning:
                 nightValue += 1
         print(f"Totaal aantal horeca met een nachtvergunning: {nightValue}")       
         break
+    
+    elif choice == 4:
+        top10 = []
+        i = 0
+        timestamps = []
+        list = ""
+
+    for i in horecaList:
+        timestamps.append(i["datumEersteAanvraag"])
+    
+    dates = [datetime.strptime(ts, "%d-%m-%Y") for ts in timestamps]
+    dates.sort()
+    sorteddates = [datetime.strftime(ts, "%d-%m-%Y") for ts in dates]
+    for x in range(10):
+        list += f"{sorteddates[x]}\n"
+        os.system("cls")
+    print(f"Top 10 oudste vergunningen. \n {list}")
+
 
 
             
