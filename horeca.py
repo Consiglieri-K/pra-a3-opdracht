@@ -42,6 +42,7 @@ while isRunning:
         os.system("cls")
         print("-------------------------------------- \n")
         outFile.write("-------------------------------------- \n")
+        print(f"Aantal horecaondernemingen met meer dan 50 mensen = {terras_horeca} \n")
         outFile.write(f"Aantal horecaondernemingen met meer dan 50 mensen = {terras_horeca} \n")
         
 
