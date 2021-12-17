@@ -5,6 +5,7 @@ from datetime import datetime
 horecaFile = open("GH.csv", "r", encoding = "UTF-8")
 reader = csv.DictReader(horecaFile, delimiter=";")
 horecaList = list(reader)
+outFile = open("outFile.txt", "a")
 
 
 #NIGHTVALUE 
@@ -25,7 +26,10 @@ while isRunning:
         totalValue = 0
         for inside in horecaList:
             totalValue += float(inside['cap_max_intern'])
+        print("-------------------------------------- \n")
+        outFile.write("-------------------------------------- \n")
         print(f"Totaal aantal bezoekers is: {totalValue} \n")
+        outFile.write(f"Totaal aantal bezoekers is: {totalValue} \n")
         
 
     elif choice == "2":
@@ -36,14 +40,20 @@ while isRunning:
             if int(onderneming['cap_max_terras']) > 50:
                 terras_horeca += 1
         os.system("cls")
-        print(f"Aantal horecaondernemingen met meer dan 50 mensen = {terras_horeca}")
-
+        print("-------------------------------------- \n")
+        outFile.write("-------------------------------------- \n")
+        outFile.write(f"Aantal horecaondernemingen met meer dan 50 mensen = {terras_horeca} \n")
+        
 
     elif choice == "3":
         for nightLicense in horecaList:
             if nightLicense["nachtvergunning"] == "Ja":
                 nightValue += 1
-        print(f"Totaal aantal horeca met een nachtvergunning: {nightValue}")       
+        print("-------------------------------------- \n")
+        outFile.write("-------------------------------------- \n")
+        print(f"Totaal aantal horeca met een nachtvergunning: {nightValue} \n")    
+        outFile.write(f"Totaal aantal horeca met een nachtvergunning: {nightValue} \n")  
+       
 
     
     elif choice == "4":
@@ -61,13 +71,19 @@ while isRunning:
         for x in range(10):
             list += f"{sorteddates[x]}\n"
             os.system("cls")
-        print(f"Top 10 oudste vergunningen. \n {list}")
+        print("-------------------------------------- \n")
+        outFile.write("-------------------------------------- \n")
+        print(f"Top 10 oudste vergunningen: \n {list}")
+        outFile.write(f"Top 10 oudste vergunningen: \n {list}")
+        print("-------------------------------------- \n")
+        outFile.write("-------------------------------------- \n")
         
     elif choice.upper() == "X":
         isRunning = False
     
 
-
+horecaFile.close()
+outFile.close()
 
             
 
